@@ -1,27 +1,74 @@
+<p align='center'>
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=Hoon%20Code&fontSize=70&fontColor=FFFFFF" />
+<p>
+<hr>
 
+<h2 align="center">🚀 About Me 🚀</h2>
 
-
-<!--
-**jjeonghun/jjeonghun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjeonghun)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+- 🔭 I’m currently working on **Web Development Projects**
+- 🌱 I’m currently learning **Spring Boot, JPA, React, and TypeScript**
+- 💬 Ask me about **Backend Development, REST APIs, and SQL Optimization**
+- 📫 How to reach me: **[hoon.email@example.com](mailto:hoon.email@example.com)** 
+- 😄 Pronouns: **He/Him**
 
 <hr>
+<h3 align="center">
+ 🌱 What I Have Learned 🌱 
+</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-0096FF?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge&logo=PyTorch&logoColor=white" />
+</p>
+
+---
+<h3 align="center">
+🚀 What I Can Handle🚀
+</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white" />
+</p>
+
+---
+<h3 align="center">
+🛠 What I Use As Tools🛠
+</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" />
+</p>
+
+<hr>
+
+
+<h3 align="center">📊 My GitHub Stats 📊</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jjeonghun&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjeonghun&theme=radical" alt="GitHub Streak"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
