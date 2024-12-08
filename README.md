@@ -6,7 +6,8 @@
 <h2 align="center">🚀 About Me 🚀</h2>
 
 <h2>Who I am</h2>
--
+-🔭 스마트 인재 개발원 2024 DCX기반 고객 분석서비스 개발자 과정 (2024.06 ~ 2024.12)
+-🌱 I’m currently learning Java and Spring
 
 
 <hr>
