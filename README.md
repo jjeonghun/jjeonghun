@@ -5,7 +5,8 @@
 
 <h2 align="center">🚀 About Me 🚀</h2>
 
-- 🔭 I’m currently working on **Web Development Projects**
+<h2></h2>
+- 🔭 I’m currently working on **Smart **
 - 🌱 I’m currently learning **Spring Boot, JPA, React, and TypeScript**
 - 💬 Ask me about **Backend Development, REST APIs, and SQL Optimization**
 - 📫 How to reach me: **[hoon.email@example.com](mailto:hoon.email@example.com)** 
