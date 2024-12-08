@@ -5,12 +5,9 @@
 
 <h2 align="center">🚀 About Me 🚀</h2>
 
-<h2></h2>
-- 🔭 I’m currently working on **Smart **
-- 🌱 I’m currently learning **Spring Boot, JPA, React, and TypeScript**
-- 💬 Ask me about **Backend Development, REST APIs, and SQL Optimization**
-- 📫 How to reach me: **[hoon.email@example.com](mailto:hoon.email@example.com)** 
-- 😄 Pronouns: **He/Him**
+<h2>Who I am</h2>
+-
+
 
 <hr>
 <h3 align="center">
@@ -30,7 +27,7 @@
   <img src="https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge&logo=PyTorch&logoColor=white" />
 </p>
 
----
+
 <h3 align="center">
 🚀 What I Can Handle🚀
 </h3>
@@ -41,7 +38,7 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white" />
 </p>
 
----
+
 <h3 align="center">
 🛠 What I Use As Tools🛠
 </h3>
@@ -52,7 +49,7 @@
   <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" />
 </p>
 
-<hr>
+---
 
 
 <h3 align="center">📊 My GitHub Stats 📊</h3>
