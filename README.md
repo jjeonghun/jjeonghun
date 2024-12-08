@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=58ACFA&height=300&section=header&text=Hi%20I%20am-nl-JJeonghun&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=58ACFA&height=300&section=header&text=Hi%20I%20am-nl-JJeonghun&fontSize=50" />
 
 
 
